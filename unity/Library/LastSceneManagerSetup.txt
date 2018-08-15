@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SimpleFirebaseUnity/Sample/Sample.unity
+  isLoaded: 1
+  isActive: 1
